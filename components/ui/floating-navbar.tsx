@@ -7,6 +7,7 @@ import {
   useMotionValueEvent,
 } from "motion/react";
 import { cn } from "@/lib/utils";
+import { NavItemProp } from "@/types/type";
 
 
 export const FloatingNav = ({
@@ -60,7 +61,7 @@ export const FloatingNav = ({
           className
         )}
       >
-        {navItems.map((navItem: any, idx: number) => (
+        {navItems.map((navItem: NavItemProp, idx: number) => (
           <a
             key={`link=${idx}`}
             href={navItem.link}

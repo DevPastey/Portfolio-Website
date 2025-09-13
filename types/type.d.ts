@@ -5,3 +5,9 @@ export type MagicButtonProp = {
     handleClick?: () => void
     otherClasses?: string
 }
+
+export type NavItemProp = {
+    name: string
+    link: string
+    icon?: React.ReactNode
+}
