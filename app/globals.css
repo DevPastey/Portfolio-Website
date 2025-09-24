@@ -190,5 +190,14 @@
     @apply bg-background text-foreground;
 
   }
+  .heading {
+    @apply lg:text-3xl text-2xl font-bold justify-center items-center flex
+  }
 
+  
+}
+
+
+html {
+  scroll-behavior: smooth;
 }
