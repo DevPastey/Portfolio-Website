@@ -10,7 +10,7 @@ const cn = (...args: Parameters<typeof clsx>) => clsx(...args);
 
 const Hero = () => {
   return (
-    <div className=' mr-0 relative '>
+    <div className=' mr-0 relative'>
       <div className='w-screen overflow-x-hidden'>
         <Spotlight className='-top-40 -left-10 md:-left-32 md:-top-20 h-screen ' fill='white'/>
         <Spotlight className='top-10 left-0 h-[80vh] w-[50vw] transform scale-x-[-1]' fill='purple'/>
