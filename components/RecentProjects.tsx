@@ -9,9 +9,9 @@ const RecentProjects = () => {
     <div className='py-20' id='projects'>
       <h1 className="heading">
         A small selection of
-        <span className="text-purple ml-[6px]">Recent Projects</span>
+        <span className="text-purple ml-[8px]">Recent Projects</span>
       </h1>
-      <div className="flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8 mt-10">
+      <div className="flex flex-wrap items-center justify-center p-4 gap-x-24 gap-y-8">
         {projects.map(({id, title, des, img, iconLists, link}) => (
             <div key={id} className='sm:h-[41rem] h-[32rem] lg:min-h-[32.5rem] sm:w-142.5 flex items-center justify-center w-[80vw]' > 
                 <PinContainer title={link} href={link}>

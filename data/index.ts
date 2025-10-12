@@ -107,33 +107,33 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Working with Emmanuel was a game-changer for our company. He didn’t just build a website — he built an experience. His attention to design details and user flow helped us cut our bounce rate by nearly half within a month.",
+    name: "Sophia Martins",
+    title: "Marketing Lead at GreenField Organics",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Emmanuel is one of those rare developers who combines deep technical skill with a strong sense of aesthetics. He delivered our project ahead of schedule and went above and beyond to ensure everything performed flawlessly.",
+    name: "David Lee",
+    title: "Founder & CEO of InnovateX Labs",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "From our very first meeting, Emmanuel understood our vision and translated it into a beautiful, functional interface. His ability to communicate complex ideas in simple terms made the collaboration seamless.",
+    name: "Chloe Anderson",
+    title: "Product Manager at NovaFin",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "We reached out to Emmanuel for a complete redesign of our brand website, and the outcome exceeded expectations. The UI is modern, responsive, and perfectly aligned with our identity. His passion truly shows in his work.",
+    name: "James Okoro",
+    title: "Creative Director at Horizon Media",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+      "Emmanuel brought structure, clarity, and innovation to our development process. He’s an exceptional collaborator with a strong grasp of both front-end and back-end principles. Highly recommended for any serious digital project.",
+    name: "Priya Desai",
+    title: "CTO of CloudNest Systems",
   },
 ];
 
