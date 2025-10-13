@@ -120,12 +120,12 @@ export const BentoGridItem = ({
               }}
               >
                 {leftList.map((item, index) => (
-                  <span className="py-2 lg:py-4 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132e]" key={index}> {item} </span>
+                  <span className="py-2 lg:py-3 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132e]" key={index}> {item} </span>
                 ))}
-                <span className="py-4 px-3 lg:py-4 lg:px-3 rounded-lg text-center bg-[#10132e]" />
+                <span className="py-2 px-3 lg:py-3 lg:px-3 rounded-lg text-center bg-[#10132e]" />
               </motion.div>
 
-              <motion.div className="flex flex-col gap-3 md:gap-3 lg:gap-3 overflow-y-scroll scrollbar-hide max-h-70 py-10"
+              <motion.div className="flex flex-col gap-3 md:gap-3 overflow-y-scroll scrollbar-hide max-h-70 py-10"
                 whileHover={{
                 y: -15,
                 transition: { type: 'spring', stiffness: 150 }
@@ -133,7 +133,7 @@ export const BentoGridItem = ({
               >
                 <span className="py-4 px-3 lg:py-4 lg:px-3 rounded-lg text-center bg-[#10132e]" />
                 {rightList.map((item, index) => (
-                  <span className="py-2 lg:py-4 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132e]" key={index}> {item} </span>
+                  <span className="py-2 lg:py-3 lg:px-3 px-3 text-xs lg:text-base opacity-50 lg:opacity-100 rounded-lg text-center bg-[#10132e]" key={index}> {item} </span>
                 ))}
               </motion.div>
             </div>
